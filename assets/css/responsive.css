@@ -1,0 +1,235 @@
+@media screen and (max-width: 1440px) {}
+
+@media screen and (max-width: 1366px) {}
+
+@media screen and (max-width: 1200px) {
+    .hero-img {
+        max-width: 312px;
+    }
+}
+
+@media screen and (max-width: 1024px) {}
+
+@media screen and (max-width: 992px) {
+    .section {
+        padding: 40px 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .header-top {
+        gap: 10px;
+        padding: 12px 20px;
+
+    }
+
+    .header-top .left-info {
+        font-size: 16px;
+    }
+
+    .header-top .right-info {
+        font-size: 16px;
+    }
+
+    .hero-logo-section .title,
+    .hero-logo-section-2 .title {
+        font-size: 20px;
+    }
+
+    .hero-logo-section {
+        gap: 8px;
+        padding: 20px;
+    }
+
+    .hero-content-area .hero-title {
+        font-size: 20px;
+        padding: 12px 0px;
+        margin: 0px 0px 20px 0px;
+    }
+
+    .hero-text p {
+        font-size: 16px;
+    }
+
+    .hero-text h3 {
+        font-size: 24px;
+    }
+
+    .hero-img {
+        max-width: 190px;
+    }
+
+    .client-mssg-area .dear-text {
+        font-size: 20px;
+        margin-bottom: 16px;
+
+    }
+
+    .hero-content-box {
+        gap: 10px;
+        margin-bottom: 20px;
+    }
+
+    .client-mssg-area .regular-text {
+        font-size: 16px;
+        margin-bottom: 10px;
+        line-height: 120%;
+    }
+
+    .np-hero {
+        padding: 20px 0px;
+    }
+
+    .hero-logo-section-2 {
+        gap: 8px;
+        margin-bottom: 24px;
+    }
+
+    .np-company-name {
+        font-size: 16px;
+    }
+
+    .np-price-section .np-price {
+        font-size: 40px;
+    }
+
+    .np-change-link {
+        font-size: 12px;
+    }
+
+    .np-rate-row td:first-child {
+        font-size: 12px;
+    }
+
+    .np-rate-row td:last-child {
+        font-size: 12px;
+    }
+
+    .np-rate-row {
+        margin-bottom: 8px;
+    }
+
+    .np-kpi-box {
+        padding: 8px;
+    }
+
+    .np-card {
+        flex-direction: row;
+        gap: 12px;
+        border-radius: 8px;
+        padding: 0px;
+    }
+
+    .np-card>div {
+        flex: 1;
+    }
+
+    .np-card-header {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .np-card-header .logo-box {
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-bottom: 8px;
+    }
+
+    .np-rate-box {
+        border: 0px solid #BEBEBE;
+        padding: 12px;
+        margin-bottom: 8px;
+    }
+
+    .np-card {
+        background: inherit;
+    }
+
+    .np-card-area {
+        background: var(--Shades-White, #FFF);
+        flex-direction: row;
+        border-radius: 8px;
+        padding: 12px;
+    }
+
+    .np-apply-btn {
+        margin-top: 12px;
+    }
+
+    .np-kpi-table {
+        margin-top: 12px;
+        padding: 8px;
+    }
+
+    .np-kpi-label {
+        font-size: 12px;
+    }
+
+    .np-kpi-value {
+        font-size: 12px;
+    }
+
+    .np-certificate-link {
+        text-align: start;
+        font-size: 12px;
+    }
+
+    .np-trust-section {
+        gap: 8px;
+        justify-content: start;
+        margin: 10px 0px;
+        flex-wrap: wrap;
+    }
+
+    .video-section .section-title {
+        font-size: 24px;
+        margin: 0 auto 20px auto;
+    }
+
+    .video-text h5 {
+        font-size: 24px;
+    }
+
+    .video-text p {
+        font-size: 14px;
+    }
+
+    .video-box iframe {
+        border-radius: 20px;
+        max-width: 240px;
+        width: 100%;
+        height: 240px;
+    }
+
+    .np-footer-section h5 {
+        font-size: 40px;
+        margin-bottom: 40px;
+    }
+
+    .np-footer-section p {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+
+    .footer-logo {
+        max-width: 150px;
+        margin: 40px auto 0 auto;
+    }
+
+    body {
+        margin: 14px;
+        background: #F6F6F6;
+    }
+}
+
+@media screen and (max-width: 640px) {}
+
+
+@media screen and (max-width: 576px) {}
+
+@media screen and (max-width: 480px) {}
+
+@media screen and (max-width: 426px) {}
+
+@media screen and (max-width: 376px) {}
