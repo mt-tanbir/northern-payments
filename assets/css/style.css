@@ -6,21 +6,6 @@
     font-style: normal;
 }
 
-@font-face {
-    font-family: "Photograph Signature";
-    src: url('./Photograph-Signature.ttf') format('opentype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-/* Helvetica Neue Font */
-/* @font-face {
-    font-family: 'Helvetica Neue', sans-serif;
-    src: url('./HelveticaNeueCyr-Light.otf') format('opentype');
-    font-weight: normal;
-    font-style: normal;
-} */
-
 .section {
     padding: 120px 0;
 }
@@ -248,17 +233,6 @@ li {
     border: 1px solid #BEBEBE;
     background: #EBEAFC;
 }
-
-
-
-
-
-
-
-
-
-
-
 
 .np-card {
     border-radius: 16px;
@@ -605,7 +579,7 @@ a.collapsed .np-kpi-toggle-icon {
 
 
 /* Email Template */
-.email-card {
+/* .email-card {
     width: 100%;
     max-width: 600px;
     background: #EBEAFC;
@@ -768,4 +742,4 @@ a.collapsed .np-kpi-toggle-icon {
 .book-button:hover {
     transform: translateY(-1px);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-}
+} */
